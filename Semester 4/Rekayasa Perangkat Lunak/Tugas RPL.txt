@@ -1,0 +1,35 @@
+1. Bagaimana software dibangun sehingga bisa laku di pasaran dan mudah digunakan.
+- Cari 1 program u/ organisasi *enterprise administration, 
+- jelaskan kegunaan program tsb,
+- memetakan hak akses u/ pengguna
+- SS tampilan aplikasi setiap pengguna
+- flowdata dr aplikasi, dan integrasi dari hak akses masing² user.
+
+2. Berimajinasi/ merenung.. jika anda akan membangun sebuah startup/ software, bayangkan anda ingin buat project,
+(*Materi Management Project)
+Terjemahkan khayalan anda menjadi :
+- Product quality
+- Risk assesment saat pengembangan berjln
+- Measurement
+- Cost Estimation
+- Project Scheduling
+- Customer Complication
+- Staffing (kebutuhan ahli dibidangnya)
+- Project Monitoring
+
+3. Menentukan judul projek untuk mengerjakan projek rpl.
+- mencari narasumber(*u/ buat judul)
+- real life studi kasus.
+- gunakan methode (*gunakan agile software development).
+- berikan alasan ilmiah mengapa memilih methode tsb.
+- jelaskan setiap langkah methodenya.
+- buat jadwal kerja berdasarkan langkah methode u/ 12 minggu
+
+4. Menentukan narasumber yg akan di wawancarai, 
+- buat daftar pertanyaan /u req system
+- wwnc menggunakan daftar pertanyaan
+- video/voice wawancara
+- tulis jwban client sesuai pertanyaan
+- analisis dlm tabel PIECES
+
+5. Kerjakan 7 soal diatas kemudian baru buat DFD lv 0 & lv 1 untuk sistem yang dibuat/ hasil wawancara
